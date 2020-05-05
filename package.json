@@ -1,6 +1,6 @@
 {
   "name": "sfspellbot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A discord bot that provides spell blocks for Starfinder spells.",
   "main": "Main.js",
   "scripts": {
